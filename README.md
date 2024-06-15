@@ -153,8 +153,8 @@ JOIN addtocart
 USING (month)
 JOIN purchase
 USING (month)
-ORDER BY month;```
-
+ORDER BY month;
+```
 **• Query results**
 
 ![image](https://github.com/lekhuong0196/-SQL-Explore-Ecommerce-Dataset/assets/138196501/8a43fdcb-b959-429a-9741-41e0499ab3c6)
