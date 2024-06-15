@@ -157,9 +157,9 @@ ORDER BY month;```
 
 **• Query results**
 
-![image](https://github.com/lekhuong0196/-SQL-Explore-Ecommerce-Dataset/assets/138196501/a55c1d3e-3f51-433f-a14e-53498aa31662)
+![image](https://github.com/lekhuong0196/-SQL-Explore-Ecommerce-Dataset/assets/138196501/8a43fdcb-b959-429a-9741-41e0499ab3c6)
 
-## **5.	Conclusion**
+## 5.	Conclusion
    
 This e-commerce dataset analysis on BigQuery served as a valuable learning experience about the marketing landscape and customer journeys. By analyzing metrics like bounce rate, transactions, revenue, visits, and purchases, we gained a deeper understanding of customer behavior.
 
