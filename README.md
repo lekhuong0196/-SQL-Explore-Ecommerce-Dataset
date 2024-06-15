@@ -1,4 +1,4 @@
-# -SQL-Explore-Ecommerce-Dataset
+# SQL-Explore-Ecommerce-Dataset
 # 1.	Introduction
 This project analyzes website activity data from 2017 stored in a public eCommerce dataset on Google BigQuery. The data originates from Google Analytics user sessions.
 
